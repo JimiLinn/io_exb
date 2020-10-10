@@ -4,3 +4,5 @@
   $id=$_GET['id'];
   delete_user($id);
 ?>
+
+
